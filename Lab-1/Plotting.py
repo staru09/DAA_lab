@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import re
 
-log_file_path = "execution_times_long.log"
+log_file_path = 'Lab-1\execution_times_long.log'
 data = []
 
 with open(log_file_path, "r") as file:
