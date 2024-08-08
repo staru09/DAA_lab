@@ -1,0 +1,10 @@
+2024-08-01 10:36:32.660670: Array size = 10, Bubble sort took 0.000015 seconds
+2024-08-01 10:36:37.167435: Array size = 50, Bubble sort took 0.000118 seconds
+2024-08-01 10:36:40.670747: Array size = 100, Bubble sort took 0.000505 seconds
+2024-08-01 10:36:43.504626: Array size = 150, Bubble sort took 0.001266 seconds
+2024-08-01 10:36:50.236284: Array size = 250, Bubble sort took 0.003623 seconds
+2024-08-01 10:36:54.182710: Array size = 500, Bubble sort took 0.022531 seconds
+2024-08-01 10:37:14.482140: Array size = 1000, Bubble sort took 0.086826 seconds
+2024-08-01 10:37:22.135860: Array size = 1250, Bubble sort took 0.143967 seconds
+2024-08-01 10:37:30.473772: Array size = 1750, Bubble sort took 0.251255 seconds
+2024-08-01 10:37:39.053054: Array size = 2000, Bubble sort took 0.325658 seconds
